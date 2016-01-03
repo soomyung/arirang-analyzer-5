@@ -1,0 +1,6 @@
+org/apache/lucene/ko/TestCompoundSegment.class
+org/apache/lucene/ko/TestKoreanAnalyzer.class
+org/apache/lucene/ko/TestMorphologicalAnalyzer.class
+org/apache/lucene/ko/KoreanNTokenizerTest.class
+org/apache/lucene/ko/WordSegmentFilterTest.class
+org/apache/lucene/ko/TestKoreanAnalyzer1.class
